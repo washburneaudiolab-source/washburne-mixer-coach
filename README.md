@@ -1,6 +1,6 @@
 # Washburne Mixer Coach
 
-**Free for good, from [Washburne Audio Labs](https://washburneaudiolabs.com).** No trial, no subscription, no ads.
+**Free for good, from [Washburne Audio Labs, Inc.](https://washburneaudiolabs.com).** No trial, no subscription, no ads.
 
 Pick a source for each channel, say whether you're playing live, recording or streaming, and Washburne Mixer Coach recommends every control, including the amp mode, graphic EQ, monitors and effects, then walks you through it.
 
@@ -9,7 +9,7 @@ tell us how yours goes: washburneaudiolab@gmail.com.
 
 ## Download
 
-Windows 10 or 11 (64-bit): **[MixerCoach-Setup-1.0.0.exe](https://github.com/washburneaudiolab-source/washburne-mixer-coach/releases/latest)** from the latest release.
+Windows 10 or 11 (64-bit): **[MixerCoach-Setup-1.0.1.exe](https://github.com/washburneaudiolab-source/washburne-mixer-coach/releases/latest)** from the latest release.
 
 For the listening checks: any USB audio interface with two inputs and two outputs (PMP mixers have no USB). Every lesson also works hands-on without one.
 
@@ -21,6 +21,6 @@ file name, then **Run anyway**. Only download it from this page or washburneaudi
 See [washburneaudiolabs.com](https://washburneaudiolabs.com/support.html) or email washburneaudiolab@gmail.com.
 
 ---
-<sub>Unofficial: Washburne Audio Labs is not affiliated with or endorsed by Behringer or Music Tribe. Behringer, EUROPOWER and PMP are trademarks of
+<sub>Unofficial: Washburne Audio Labs, Inc. is not affiliated with or endorsed by Behringer or Music Tribe. Behringer, EUROPOWER and PMP are trademarks of
 their owners, named only to say which mixers this app works with. Provided as is, without warranty; see our
 [Terms of Use](https://washburneaudiolabs.com/terms.html).</sub>
