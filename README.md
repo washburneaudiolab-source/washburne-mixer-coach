@@ -1,15 +1,15 @@
-# Washburne Mixer Coach
+# MixMason2
 
 **Free for good, from [Washburne Audio Labs, Inc.](https://washburneaudiolabs.com).** No trial, no subscription, no ads.
 
-Pick a source for each channel, say whether you're playing live, recording or streaming, and Washburne Mixer Coach recommends every control, including the amp mode, graphic EQ, monitors and effects, then walks you through it.
+Pick a source for each channel, say whether you're playing live, recording or streaming, and MixMason2 recommends every control, including the amp mode, graphic EQ, monitors and effects, then walks you through it.
 
 **Works with** Behringer PMP powered mixers (PMP4000, PMP6000, PMP1000, PMP960M, PMP980S, PMP1680S, and PMP500, PMP550M and PMP580S with hands-on lessons). Tested on a PMP4000; the other models are built from their owner's manuals, so please
 tell us how yours goes: washburneaudiolab@gmail.com.
 
 ## Download
 
-Windows 10 or 11 (64-bit): **[MixerCoach-Setup-1.0.1.exe](https://github.com/washburneaudiolab-source/washburne-mixer-coach/releases/latest)** from the latest release.
+Windows 10 or 11 (64-bit): **[MixMason2-Setup-1.0.2.exe](https://github.com/washburneaudiolab-source/washburne-mixer-coach/releases/latest)** from the latest release.
 
 For the listening checks: any USB audio interface with two inputs and two outputs (PMP mixers have no USB). Every lesson also works hands-on without one.
 
