@@ -9,7 +9,7 @@ tell us how yours goes: washburneaudiolab@gmail.com.
 
 ## Download
 
-Windows 10 or 11 (64-bit): **[MixMason2-Setup-1.0.2.exe](https://github.com/washburneaudiolab-source/washburne-mixer-coach/releases/latest)** from the latest release.
+Windows 10 or 11 (64-bit): **[MixMason2-Setup-1.0.3.exe](https://github.com/washburneaudiolab-source/washburne-mixer-coach/releases/latest)** from the latest release.
 
 For the listening checks: any USB audio interface with two inputs and two outputs (PMP mixers have no USB). Every lesson also works hands-on without one.
 
